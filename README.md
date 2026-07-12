@@ -182,7 +182,7 @@ streamlit run App.py
 **Shivani**
 
 - GitHub: https://github.com/shivani-cse
-- LinkedIn: https://linkedin.com/yshivani2
+- LinkedIn:https://linkedin.com/in/yshivani2
 
 ---
 
